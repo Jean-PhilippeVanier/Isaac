@@ -1,0 +1,51 @@
+===============================================================================
+EXTENSION NAME : linecount
+EXTENSION VERSION : 0.1.7
+-------------------------------------------------------------------------------
+count time : 2017-12-08 19:42:10
+count workspace : c:\Users\Crypto\Desktop\Isaac
+total files : 39
+total code lines : 572
+total comment lines : 29
+total blank lines : 48
+
+css\global.css, code is 14, comment is 0, blank is 1.
+images\-1161417628.png, it is a binary file.
+images\-141174978.png, it is a binary file.
+images\1873395711.png, it is a binary file.
+images\2111460433.png, it is a binary file.
+images\bombs_sprite.png, it is a binary file.
+images\chests_sprite.png, it is a binary file.
+images\coin_sprite.png, it is a binary file.
+images\coins_sprite.png, it is a binary file.
+images\explosion_sprite.png, it is a binary file.
+images\fire_sprite.png, it is a binary file.
+images\flies.png, it is a binary file.
+images\flies_sprite.png, it is a binary file.
+images\FliesAlone.png, it is a binary file.
+images\hearts_sprite.png, it is a binary file.
+images\hud.png, it is a binary file.
+images\intro.png, it is a binary file.
+images\isaac.png, it is a binary file.
+images\isaac_heads.png, it is a binary file.
+images\isaac_legs.png, it is a binary file.
+images\isaac_sprite.png, it is a binary file.
+images\isaac_sprite_custom.png, it is a binary file.
+images\Key.png, it is a binary file.
+images\pills_sprite.png, it is a binary file.
+images\poop_sprite.png, it is a binary file.
+images\rocks_sprite.png, it is a binary file.
+images\room.png, it is a binary file.
+images\roomm.png, it is a binary file.
+images\tear.png, it is a binary file.
+index.html, code is 24, comment is 0, blank is 2.
+js\Animation.js, code is 142, comment is 3, blank is 23.
+js\Bomb.js, code is 11, comment is 0, blank is 3.
+js\Collision.js, code is 13, comment is 0, blank is 2.
+js\Fly.js, code is 38, comment is 0, blank is 2.
+js\HUD.js, code is 31, comment is 5, blank is 0.
+js\Javascript.js, code is 115, comment is 6, blank is 6.
+js\Key.js, code is 11, comment is 0, blank is 1.
+js\Player.js, code is 136, comment is 15, blank is 8.
+js\Tears.js, code is 37, comment is 0, blank is 0.
+===============================================================================
